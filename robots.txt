@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eigiesaze.paulbird.co/sitemap.xml
